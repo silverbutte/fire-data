@@ -1,12 +1,12 @@
 {
-  "fireSeason": "IN EFFECT",
-  "fireSeasonEffective": "Saturday, May 30, 2026 @ 12:01 am",
+  "fireSeason": null,
+  "fireSeasonEffective": null,
   "publicUseRestriction": null,
-  "ifpl": "LEVEL 2",
-  "ifplName": "LIMITED SHUTDOWN",
-  "publicChangeEffective": "12:01AM 07/11/26",
-  "industrialChangeEffective": "12:01AM 07/06/26",
+  "ifpl": null,
+  "ifplName": null,
+  "publicChangeEffective": null,
+  "industrialChangeEffective": null,
   "source": "https://www.dfpa.net/industrial-regulations",
-  "checkedAt": "2026-07-12T05:00:06.179062-07:00",
-  "scraperStatus": "ok"
+  "checkedAt": "2026-07-12T12:00:17.931657-07:00",
+  "scraperStatus": "fetch_error"
 }
