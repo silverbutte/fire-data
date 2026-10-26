@@ -7,6 +7,6 @@
   "publicChangeEffective": null,
   "industrialChangeEffective": null,
   "source": "https://www.dfpa.net/industrial-regulations",
-  "checkedAt": "2026-10-26T05:00:09.494382-07:00",
-  "scraperStatus": "fetch_error"
+  "checkedAt": "2026-10-26T12:00:11.563702-07:00",
+  "scraperStatus": "parse_error"
 }
