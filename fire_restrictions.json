@@ -1,12 +1,22 @@
 {
-  "fireSeason": null,
+  "fireSeason": "NOT IN EFFECT",
   "fireSeasonEffective": null,
-  "publicUseRestriction": null,
+  "publicUseRestriction": "INACTIVE",
+  "fireDanger": "INACTIVE",
   "ifpl": null,
   "ifplName": null,
+  "ifplZone": null,
+  "ifplZones": {
+    "DG-1": "INACTIVE",
+    "DG-2": "INACTIVE",
+    "UA-1": "INACTIVE",
+    "UA-2": "INACTIVE"
+  },
   "publicChangeEffective": null,
   "industrialChangeEffective": null,
-  "source": "https://www.dfpa.net/industrial-regulations",
-  "checkedAt": "2026-11-11T18:00:06.004269-07:00",
-  "scraperStatus": "parse_error"
+  "dfpaLastUpdated": "October 26, 2026 at 10:51 AM",
+  "source": "https://www.dfpa.net/public-fire-status-dashboard",
+  "checkedAt": "2026-11-11T17:11:31.124625-08:00",
+  "lastSuccessAt": "2026-11-11T17:11:31.124625-08:00",
+  "scraperStatus": "ok"
 }
